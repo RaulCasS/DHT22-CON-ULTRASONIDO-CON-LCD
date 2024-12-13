@@ -88,7 +88,7 @@ lcd.clear();
 
 ## CONEXIÓN
 
-![]()
+![](https://github.com/RaulCasS/DHT22-CON-ULTRASONIDO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20232515.png?raw=true)
 
 ## RESULTADOS
 
