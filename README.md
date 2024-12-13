@@ -95,4 +95,10 @@ lcd.clear();
 ![](https://github.com/RaulCasS/DHT22-CON-ULTRASONIDO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20232706.png?raw=true)
 ![](https://github.com/RaulCasS/DHT22-CON-ULTRASONIDO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20232808.png?raw=true)
 ![](https://github.com/RaulCasS/DHT22-CON-ULTRASONIDO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20232920.png?raw=true)
-![]()
+![](https://github.com/RaulCasS/DHT22-CON-ULTRASONIDO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20233055.png?raw=true)
+
+### CRÉDITOS
+
+Desarrollador por el Ing. Raúl Castañeda Sotelo
+
+https://github.com/RaulCasS (GitHub)
