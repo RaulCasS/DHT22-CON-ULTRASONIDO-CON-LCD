@@ -94,5 +94,5 @@ lcd.clear();
 
 ![](https://github.com/RaulCasS/DHT22-CON-ULTRASONIDO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20232706.png?raw=true)
 ![](https://github.com/RaulCasS/DHT22-CON-ULTRASONIDO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20232808.png?raw=true)
-![]()
+![](https://github.com/RaulCasS/DHT22-CON-ULTRASONIDO-CON-LCD/blob/main/Captura%20de%20pantalla%202024-12-12%20232920.png?raw=true)
 ![]()
